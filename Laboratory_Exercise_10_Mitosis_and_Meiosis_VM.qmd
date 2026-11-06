@@ -128,16 +128,16 @@ During this activity you will work in *pairs.*
 
 **Data Table 10.1: Number of Cells Observed**
 
-| **Phase**  | **Individual totals** | **Group Total** | **Percent** |
-|:-----------|:----------------------|:----------------|:------------|
-| Interphase | 230                   | 710             |             |
-| Prophase   | 13                    | 40              |             |
-| Metaphase  | 4                     | 18              |             |
-| Anaphase   | 2                     | 10              |             |
-| Telophase  | 8                     | 14              |             |
-| Total      | 257                   | 792             | 100%        |
+| **Phase**  | **Individual totals** | **Group Total** | **Percent**   |
+|:-----------|:----------------------|:----------------|:--------------|
+| Interphase | 230                   | 710             | 32.3943662    |
+| Prophase   | 13                    | 40              | 32.0.3250.325 |
+| Metaphase  | 4                     | 18              |               |
+| Anaphase   | 2                     | 10              |               |
+| Telophase  | 8                     | 14              |               |
+| Total      | 257                   | 792             | 100%          |
 
-The mitotic index is 12%.
+The mitotic index is 10.5%.
 
 ### **Calculating Mitotic Index**
 
